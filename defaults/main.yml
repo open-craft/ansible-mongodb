@@ -1,2 +1,0 @@
-MONGODB_OPENSTACK_DB_DEVICE: '/dev/vdb1'
-MONGODB_SERVER_BACKUP_DIR: '/var/lib/mongodb/backup'
